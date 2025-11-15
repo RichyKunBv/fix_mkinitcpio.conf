@@ -30,8 +30,8 @@ curl -L -o fix_mkinitcpio,conf.sh
 Dale permisos y ejecútalo:
 
 
-chmod +x fix.sh
-sudo ./fix.sh
+chmod +x fix_mkinitcpio,conf.sh
+sudo ./fix_mkinitcpio,conf.sh
 
 El script detectará el error, lo reparará y regenerará el initramfs (tardará un momento).
 
