@@ -1,0 +1,1 @@
+# fix_mkinitcpio.conf
